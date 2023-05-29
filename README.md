@@ -16,9 +16,9 @@ Build a simple one-page app to practice React.js with Spring Boot
 </br>
 
   Start react-app by
-```
-npx create-react-app react-app
-```
+  ```
+  npx create-react-app react-app
+  ```
   
   In the react app, Index.js contains React DOM which will gather all the components, css and js from App.js and render it to index.html.
   
