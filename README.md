@@ -9,8 +9,10 @@ Build a simple one-page app to practice React.js with Spring Boot
 <img width="319" alt="Screenshot 2023-05-29 at 6 17 19 PM" src="https://github.com/davidoh-0808/1Page-React-Netty-Toy/assets/75977587/4e295d62-cce3-454f-80b9-ec1a65ece36f">
 
 </br>
+</br>
+</br>
 
-## React
+# React
 ### What to build?
 ![image](https://github.com/davidoh-0808/1Page-React-Netty-Toy/assets/75977587/b63fd446-64f7-4fae-b9b8-3c0580afdaeb)
 </br>
@@ -145,9 +147,9 @@ Build a simple one-page app to practice React.js with Spring Boot
 
 </br>
 </br>
+</br>
 
-
-## Netty
+# Netty
 ### Configuration
   
           
